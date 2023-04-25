@@ -1,4 +1,5 @@
-# 'Z-Factors' Senior chemical engineering laborary. ChE 180A. 
+# 'Z-Factors' Chemical Engineering Laboratory. 
+# ChE 180A at UC Santa Barbara
 UCSB's Chemical Engineering 180A Lab: 'Z-Factors'. Data plotted in python, report written in LATEX. 
 
 ## What is a 'z-factor?'
